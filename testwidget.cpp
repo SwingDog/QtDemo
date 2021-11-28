@@ -22,6 +22,7 @@ void TestWidget::on_pbTest1_clicked()
         i=1;
         i++;
         qDebug()<<"i:"<<i;
+        qDebug()<<"ijij";
         break;
     }
     case 3:{    //c++
